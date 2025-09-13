@@ -1,4 +1,4 @@
-# Assinment
+# Assignment
 
 Task 1: Conversation Management & Summarization
 
