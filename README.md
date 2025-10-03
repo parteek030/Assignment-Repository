@@ -1,4 +1,4 @@
-# Assignment
+# FoodBotAI
 
 Task 1: Conversation Management & Summarization
 
